@@ -1,4 +1,5 @@
-﻿define(['../system'], function(system) {
+﻿//test
+define(['../system'], function(system) {
     var fadeOutDuration = 100;
 
     var entrance = function(parent, newChild, settings) {
